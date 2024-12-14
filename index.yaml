@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  nginx-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-15T02:00:51.392257+05:30"
+    description: My First Helm Chart
+    digest: 8256bdec1446c7281a1d94a8a67866eecd26a31e01360d479d7f05fae7ec8146
+    maintainers:
+    - email: snaveenaws@gmail.com
+      name: naveen
+    name: nginx-chart
+    type: application
+    urls:
+    - https://snaveenkpn.github.io/helm_testing/nginx-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-15T02:00:51.3912514+05:30"
